@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...despertar tec
+- 🔭 I’m currently working on ...#despertar tec
 - 🌱 I’m currently learning desvolimento de sistema
 - 👯 I’m looking to collaborate on ...ajuda
 - 🤔 I’m looking for help with ...matheus 
