@@ -1,16 +1,9 @@
-### Hi there 👋
+### Olá  👋
+# me chamo lucas
+#  🧑‍💼estou  aprendo um pouco de desenvolvimento de sistema
+- 👯  pretendo trabalhar como programador 
+- 🤔  estou aprendendo 
+- 💬 tenho 17 anos
+- 📫 How to reach me:email :maunapoli34@gmail.com
 
-<!--
-**Lucasgojo/Lucasgojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...#despertar tec
-- 🌱 I’m currently learning desvolimento de sistema
-- 👯 I’m looking to collaborate on ...ajuda
-- 🤔 I’m looking for help with ...matheus 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
