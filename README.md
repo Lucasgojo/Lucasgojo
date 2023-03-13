@@ -7,3 +7,4 @@
 - 📫 How to reach me:email :maunapoli34@gmail.com
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasgojo&show_icons=true&theme=dark)
